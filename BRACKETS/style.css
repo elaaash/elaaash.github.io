@@ -1,0 +1,122 @@
+body { 
+    padding: : 0;
+    margin:0;
+    background-color: #006699}
+
+h1 {
+    
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Helvetica';
+        position: absolute;
+    color: #B00000 ;
+    left: 150;
+}
+
+.clock {
+     position: absolute;
+    top:100;
+    left:50;
+      
+}
+
+.clck { position: absolute;
+        top:770;
+        left:50;
+    margin: 0;
+    padding: 0;
+        color: grey;
+    font-size: 20px; }
+
+audio  { 
+position: absolute;
+left:1100;
+    top:400;
+margin: 0;
+    padding: 0;}
+
+.button {
+  border: none;
+  background-color: #B00000;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    color: black; 
+  border: 2px solid #4CAF50;
+  margin: 4px 2px;
+  transition-duration: 0.5s;
+  cursor: pointer;
+    position: absolute;
+        top:850;
+        left: 50%;
+}
+
+.button:hover {
+  background-color: #4CAF50;
+    color: white; }
+    
+.ps { position: absolute;
+    top:990;
+    left:30;
+    }
+
+.txt { position: absolute;
+        top:990;
+        left:900;
+    margin: 0;
+    padding: 0;
+        color: 009900;
+    font-size: 30px;
+    font-family: sans-serif
+        
+}
+.txt1 { position: absolute;
+        top:1150;
+        left:900;
+    right: 50;
+    margin: 0;
+    padding: 0;
+        color: 009900;
+    font-size: 30px;
+    font-family: sans-serif
+    
+}
+
+
+.sign { position: absolute;
+top:1550;
+    left:800;
+    margin: 0;
+    padding: 0;
+}
+
+.map {
+    position: absolute;
+    top:1570;
+    left:30;
+    
+}  
+
+.collage { position: absolute;
+        top:1470;
+        left:30;
+    margin: 0;
+    padding: 0;
+        color: grey;
+    font-size: 20px;}
+
+.maps { 
+position: absolute;
+        top:2050;
+        left:30;
+    margin: 0;
+    padding: 0;
+        color: grey;
+    font-size: 20px;}
+    
+    
+   
